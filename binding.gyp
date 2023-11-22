@@ -1,7 +1,7 @@
 {
     'targets': [
         {
-            'target_name': 'native-process-working-directory',
+            'target_name': 'NativeScopeKit',
             'cflags!': ['-fno-exceptions'],
             'cflags_cc!': ['-fno-exceptions'],
             'conditions': [
